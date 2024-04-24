@@ -1,2 +1,2 @@
 # investment-calculator-react
-https://project-manager-react.vercel.app/
+https://investment-calculator-react-mu.vercel.app/
